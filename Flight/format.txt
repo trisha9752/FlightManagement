@@ -1,0 +1,14 @@
+flightNumber =>     Capacity
+                    FlightName
+                    FlightModel
+                    NoOfPassengers
+                    Cost
+bookingId =>        BookingDate
+                    UserId
+                    flightNumber
+                    PNR Number
+UserId =>           email
+                    username
+                    password
+                    phone number
+                    isAdmin
